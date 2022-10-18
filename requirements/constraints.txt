@@ -10,9 +10,9 @@ Babel==2.2.0 \
     --hash=sha256:fed07cbcdcb3de79b53a8220eebed21c93f8dbb3dbce1d9c6b1c4b09e8aecf2b \
     --hash=sha256:d8cb4c0e78148aee89560f9fe21587aa57739c975bb89ff66b1e842cc697428f
 # Used by pytest
-py==1.4.33 \
-    --hash=sha256:81b5e37db3cc1052de438375605fb5d3b3e97f950f415f9143f04697c684d7eb \
-    --hash=sha256:1f9a981438f2acc20470b301a07a496375641f902320f70e31916fe3377385a9
+py==1.11.0 \
+    --hash=sha256:51c75c4126074b472f746a24399ad32f6053d1b34b68d2fa41e558e6f4a98719 \
+    --hash=sha256:607c53218732647dff4acdfcd50cb62615cedf612e72d1724fb1a0cc6405b378
 # Testing framework that supports small tests and scales to complex tests
 # Used by pytest plugins
 # Code: https://github.com/pytest-dev/pytest
